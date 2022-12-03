@@ -1,8 +1,8 @@
-package task_1000;
+package timus_task_1000;
 
 import java.util.Scanner;
 
-public class Task_1000 {
+public class Main {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         int a = scn.nextInt();
