@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba1d5c3d-fad8-42c1-8fe6-bd36931c6125" name="Changes" comment="Лабораторная работа №5 по основам проектной деятельности">
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example8.java" afterDir="false" />
+    <list default="true" id="ba1d5c3d-fad8-42c1-8fe6-bd36931c6125" name="Changes" comment="Лабораторная работа №4">
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr6/example/MyClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/timus_task_1083/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/timus_task_1639/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timus_task_1000/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus/timus_task_1000/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timus_task_1264/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus/timus_task_1264/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timus_task_1293/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus/timus_task_1293/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timus_task_1409/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus/timus_task_1409/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timus_task_1785/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus/timus_task_1785/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timus_task_1787/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus/timus_task_1787/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timus_task_1877/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus/timus_task_1877/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timus_task_2001/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus/timus_task_2001/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timus_task_2012/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus/timus_task_2012/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timus_task_2100/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus/timus_task_2100/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timus_task_2100/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus/timus_task_2100/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +63,13 @@
       <recent name="OPD" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example8">
-    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example4" />
+  <component name="RunManager" selected="Application.lr5.Example6.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr5.Example5.Main" />
       <module name="Java course 2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr4.*" />
+          <option name="PATTERN" value="lr5.Example5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example5" />
+    <configuration name="lr5.Example3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr5.Example3.Main" />
       <module name="Java course 2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr4.*" />
+          <option name="PATTERN" value="lr5.Example3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example6" />
+    <configuration name="lr5.Example4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr5.Example4.Main" />
       <module name="Java course 2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr4.*" />
+          <option name="PATTERN" value="lr5.Example4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example7" />
+    <configuration name="lr5.Example6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr5.Example6.Main" />
       <module name="Java course 2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr4.*" />
+          <option name="PATTERN" value="lr5.Example6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example8" />
+    <configuration name="timus.timus_task_1083.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.timus_task_1083.Main" />
       <module name="Java course 2022" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr4.*" />
+          <option name="PATTERN" value="timus.timus_task_1083.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example8" />
-        <item itemvalue="Application.Example6" />
-        <item itemvalue="Application.Example7" />
-        <item itemvalue="Application.Example5" />
-        <item itemvalue="Application.Example4" />
+        <item itemvalue="Application.lr5.Example6.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.lr5.Example4.Main" />
+        <item itemvalue="Application.lr5.Example3.Main" />
+        <item itemvalue="Application.timus.timus_task_1083.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671200165074</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Лабораторная работа №4">
+      <created>1671277698327</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671277698327</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,7 +228,24 @@
     <MESSAGE value=" Third commit" />
     <MESSAGE value="Лабораторная работа по основам проектной деятельности" />
     <MESSAGE value="Лабораторная работа №5 по основам проектной деятельности" />
-    <option name="LAST_COMMIT_MESSAGE" value="Лабораторная работа №5 по основам проектной деятельности" />
+    <MESSAGE value="Лабораторная работа №4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Лабораторная работа №4" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lr6/example/Main.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lr5/Example1/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
