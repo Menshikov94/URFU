@@ -1,4 +1,4 @@
-package lr10.Example3;
+package lr10.example3;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

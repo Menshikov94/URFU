@@ -1,4 +1,4 @@
-package lr10.Example4;
+package lr10.example4;
 
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
@@ -12,8 +12,8 @@ public class ReadExelFileExample {
 
     public static void main(String[] args) throws IOException {
 
-        //Открываем файл Exel для чтения
-        String filePath = "src/lr10/Example4/example4.xlsx";
+        //Щткрываем файл Exel для чтения
+        String filePath = "src/LR10/example4/example4.xlsx";
         FileInputStream inputStream = new FileInputStream(filePath);
 
         // Создаем экземпляр книги Exel из файла

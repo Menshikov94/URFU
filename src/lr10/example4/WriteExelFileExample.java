@@ -1,4 +1,4 @@
-package lr10.Example4;
+package lr10.example4;
 
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
